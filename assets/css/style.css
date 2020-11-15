@@ -620,6 +620,7 @@ nav ul li a {
   display: inline-block;
   height: auto;
   width: 100%;
+  text-align: center;
 }
 
 #projects .projects-block .projects-info {
@@ -631,7 +632,7 @@ nav ul li a {
 }
 
 .projects-block .projects-info .projects-txt {
-  padding: 25px 0px;
+  padding: 15px 0px;
   position: relative;
 }
 
@@ -639,7 +640,7 @@ nav ul li a {
   display: block;
   font-size: 19px;
   line-height: 24px;
-  margin: 0 0 13px 0;
+  margin: 0 0 10px 0;
   font-weight: 500;
   color: #292929;
   transition: all 0.2s ease-in-out 0s;
